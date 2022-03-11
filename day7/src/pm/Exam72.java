@@ -35,12 +35,14 @@ public class Exam72 {
 		
 		System.out.println(q1.m);
 		System.out.println(q2.m);
+		System.out.println();
 		
 		q1.n= 7;
 		q2.n= 7;
 		
 		System.out.println(q1.n);
 		System.out.println(q2.n);
+		System.out.println();
 		
 		q1.n= 7;
 		q2.n= 8;
