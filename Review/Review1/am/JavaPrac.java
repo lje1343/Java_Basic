@@ -1,6 +1,6 @@
 package am;
 
-public class JavaPra {
+public class JavaPrac {
     public static void main(String[] args) {
         int enter = 0; // 줄바꿈
         int cnt = 0; // 짝 카운트
