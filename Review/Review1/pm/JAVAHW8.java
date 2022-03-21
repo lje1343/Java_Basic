@@ -2,7 +2,7 @@ package pm;
 
 import java.util.Random;
 import java.util.Scanner;
-
+ 
 public class JAVAHW8 {
 
     // 7-3
