@@ -18,7 +18,7 @@ public class Javaprac {
 //			System.out.print(p.reverse(n));
 //			n = n/10;
 //		}
-		
+		  
 		// 중복된 값을 찾아서 삭제
 		int[] a = {1,2,3,4};
 		int[] b = {3,4,5,6};
