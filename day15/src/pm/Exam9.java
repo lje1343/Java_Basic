@@ -17,4 +17,9 @@ B b1 = (B)a1;
 C c1 = (C)a1;
 D d1 = (D)a1;
 E d1 = (E)a1;
+A a2 = new B();
+B b1 = (B)a2; 
+C c1 = (C)a2;
+D d1 = (D)a2;
+E d1 = (E)a2;
 */
