@@ -1,5 +1,5 @@
-# Java_Basic
-📝👇 <br><br>
+# 📝 Java_Basic
+<br>
 <b>Day01</b>  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ 주석 / 자료형 / 변수 범위 / 형변환 <br>
 <b>Day02</b>  <br>
